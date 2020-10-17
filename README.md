@@ -4,7 +4,7 @@ If you ever have a pdf that it was from scanned document but the quality is awfu
 
 ## Before
 
-![alt text](https://github.com/VasilisMpletsos/FixScannedPDF/tree/main/assets/before.jpg?raw=true)
+![Alt text](./assets/before.jpg?raw=true)
 
 ## After
 
