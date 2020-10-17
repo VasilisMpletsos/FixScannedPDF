@@ -8,4 +8,4 @@ If you ever have a pdf that it was from scanned document but the quality is awfu
 
 ## After
 
-![alt text](https://github.com/VasilisMpletsos/FixScannedPDF/blob/assets/fixed.jpg?raw=true)
+![Alt text](./assets/fixed.jpg?raw=true)
