@@ -2,5 +2,10 @@
 
 If you ever have a pdf that it was from scanned document but the quality is awfull , this is the right place!
 
-To Fix:
-* Append the pages in the right order
+## Before
+
+![alt text]https://github.com/VasilisMpletsos/FixScannedPDF/blob/assets/before.jpg?raw=true)
+
+## After
+
+![alt text]https://github.com/VasilisMpletsos/FixScannedPDF/blob/assets/fixed.jpg?raw=true)
